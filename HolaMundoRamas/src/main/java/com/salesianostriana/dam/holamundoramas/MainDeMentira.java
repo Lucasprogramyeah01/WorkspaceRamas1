@@ -5,10 +5,8 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class MainDeMentira {
 
-	public void saludar() {
-		System.out.println("Hola mundo :P");
+	public void gritar() {
+		System.out.println("HOLAAAA MUNDOOOOOOOO >:D");
 	}
-	
-	
 	
 }
